@@ -1,4 +1,4 @@
-### Hey there, 👋
+### Hey there, 
 
 I am Aaradhy Sharma, a computer sciences student of the SNU'26 batch!  
   

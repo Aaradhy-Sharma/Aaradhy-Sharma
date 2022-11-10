@@ -70,18 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-Sharma&show_icons=true&theme=radical" alt="Aaradhy-Sharma" />
 </p>
 
-<h2>  GitHub Streak </h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaradhy-Sharma&theme=radical" alt="Aaradhy-Sharma" />
-</p>
-
-<h2>  GitHub Top Languages </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaradhy-Sharma&theme=radical" alt="Aaradhy-Sharma" />
-
-</p>
 
 <h2>  GitHub Activity Graph </h2>
 

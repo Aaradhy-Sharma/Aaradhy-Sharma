@@ -1,9 +1,6 @@
 <h1 align="center"> Hi! I'm Aaradhy Sharma </h1>   
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif-lol" /></p>
-
-
 - 🔭 Currently learning C,C++,Python.  <br>
 - 😄 Pronouns: he/him. <br>
 - 🌱 Currently working on setting up my [GitHub Profile](githubprofile). <br>
@@ -23,10 +20,7 @@
 <img align="left" alt="discord.js" width="26px" src="https://images.app.goo.gl/ZxLKjxYgPKRcEkHz5" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" /> 
 <img align="left" alt="python" width="26px" src="https://i.imgur.com/C71VspT.png" />
-<img align="left" alt="Git" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
-
- <br />
-
+<img align="left" alt="Git" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" /> </br>
 </span>
 
 <h4> Workspaces </h4>
@@ -103,7 +97,7 @@
 <p align="center">
 [<img align="left" alt="Aaradhy Sharma | Instagram" width = "22px" src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />][instagram]
 
-[<img align="left" alt="Aaradhy Sharma | Instagram" width = "22px" src = "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />][mail]
+[<img align="left" alt="Aaradhy Sharma | Mail" width = "22px" src = "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />][mail]
 [<img align="left" alt="Aaradhy Sharma | Linkedin"  src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 </br>
 </p>

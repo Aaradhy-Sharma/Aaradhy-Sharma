@@ -19,8 +19,7 @@
 <img align="left" alt="c++" width="26px" src="https://i.imgur.com/YMXeZ6b.png" /> 
 <img align="left" alt="discord.js" width="26px" src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/discord-js/discord-js.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" /> 
-<img align="left" alt="python" width="26px" src="https://i.imgur.com/C71VspT.png" />
-<img align="left" alt="Git" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" /> </br>
+<img align="left" alt="python" width="26px" src="https://i.imgur.com/C71VspT.png" /></br>
 </span>
 
 <h4> Workspaces </h4>

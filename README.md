@@ -1,0 +1,116 @@
+<h1 align="center"> Hi! I'm Aaradhy Sharma </h1>   
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif-lol" /></p>
+
+
+- 🔭 Currently learning C,C++,Python.  <br>
+- 😄 Pronouns: he/him. <br>
+- 🌱 Currently working on setting up my [GitHub Profile](githubprofile). <br>
+- 🎯 2023 goals: contribute more to projects and to be profficient in Object Oriented Programming. <br>
+- ⚡ Fun fact: I love playing basketball! <br>
+- 💬 Reach me at [my work email](mail). <br>
+</a>
+
+<h2> My Skillset </h2>
+
+<h4> Languages </h4>
+
+<span>
+
+<img align="left" alt="c" width="26px" src="https://i.imgur.com/loWAHjB.png" />
+<img align="left" alt="c++" width="26px" src="https://i.imgur.com/YMXeZ6b.png" /> 
+<img align="left" alt="discord.js" width="26px" src="https://images.app.goo.gl/ZxLKjxYgPKRcEkHz5" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" /> 
+<img align="left" alt="python" width="26px" src="https://i.imgur.com/C71VspT.png" />
+<img align="left" alt="Git" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+
+ <br />
+
+</span>
+
+<h4> Workspaces </h4>
+
+<span>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://i.imgur.com/SepzwEU.png" />
+<img align="left" alt="Repl.it" width="26px" src="https://i.imgur.com/3DqvI5F.png" />
+<img align="left" alt="Glitch" width="26px" src="https://i.imgur.com/96ku0wz.png" />
+<img align="left" alt="CodeBlocks" width="26px" src="https://www.xmodulo.com/img/codeblocks.jpg" />
+<img align="left" alt="Atom" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"><br />
+</span>
+
+<h4> Tools </h4>
+
+<span>
+<img align="left" alt="Git" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+<img align="left" alt="GitLab" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+<img align="left" alt="Windows Terminal" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" /></br>
+</span>
+
+<h4> Frameworks </h4>
+
+<span>
+
+<img align="left" alt="Node.js" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+<img align="left" alt="Express.js" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+<img align="left" alt="MySQL" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" /></br>
+</span>
+
+<h4> Databases </h4>
+
+<span>
+
+<img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+<img align="left" alt="MySQL" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+<img align="left" alt="SQLite" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+<img align="left" alt="Oracle" width="26px" src="https://i.imgur.com/1Q2Z1Zu.png" />
+</br>
+</span>
+
+
+<h2>  GitHub Stats </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-Sharma&show_icons=true&theme=radical" alt="Aaradhy-Sharma" />
+</p>
+
+<h2>  GitHub Streak </h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaradhy-Sharma&theme=radical" alt="Aaradhy-Sharma" />
+</p>
+
+<h2>  GitHub Top Languages </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaradhy-Sharma&theme=radical" alt="Aaradhy-Sharma" />
+
+</p>
+
+<h2>  GitHub Activity Graph </h2>
+
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aaradhy-Sharma&theme=redical" alt="Aaradhy-Sharma" />
+</p>
+
+
+<h4>  Socials </h4>
+
+<p align="center">
+[<img align="left" alt="Aaradhy Sharma | Instagram" width = "22px" src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />][instagram]
+
+[<img align="left" alt="Aaradhy Sharma | Instagram" width = "22px" src = "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />][mail]
+[<img align="left" alt="Aaradhy Sharma | Linkedin"  src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+</br>
+</p>
+
+
+
+[mail]: mailto:as783@snu.edu.in
+[instagram]: https://instagram.com/ig_shadical_yt
+[githubprofile]: https://github.com/Aaradhy-Sharma
+[linkedin]: https://www.linkedin.com/in/aaradhy-sharma-b41b32242/

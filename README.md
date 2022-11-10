@@ -60,7 +60,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
 <img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
-<img align="left" alt="Oracle" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/oracle.svg />
+<img align="left" alt="Oracle" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/oracle.svg /">
 </br>
 </span>
 

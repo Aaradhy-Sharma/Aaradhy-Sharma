@@ -95,9 +95,9 @@
 <h4>  Socials </h4>
 
 <p align="center">
-[<img align="left" alt="Aaradhy Sharma | Instagram" width = "22px" src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />][https://instagram.com/ig_shadical_yt]
-[<img align="left" alt="Aaradhy Sharma | Mail" width = "22px" src = "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />][mailto:as783@snu.edu.in]
-[<img align="left" alt="Aaradhy Sharma | Linkedin"  src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][https://www.linkedin.com/in/aaradhy-sharma-b41b32242/]
+[<img align="left" alt="Aaradhy Sharma | Instagram" width = "22px" src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />](https://instagram.com/ig_shadical_yt)
+[<img align="left" alt="Aaradhy Sharma | Mail" width = "22px" src = "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />](mailto:as783@snu.edu.in)
+[<img align="left" alt="Aaradhy Sharma | Linkedin"  src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aaradhy-sharma-b41b32242/)
 </br>
 </p>
 

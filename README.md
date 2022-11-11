@@ -67,7 +67,7 @@
 <h2>  GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-Sharma&show_icons=true&theme=transparent" alt="Aaradhy-Sharma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-Sharma&count_private=true&show_icons=true&theme=transparent" alt="Aaradhy-Sharma" />
 </p>
 
 

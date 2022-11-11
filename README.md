@@ -67,7 +67,7 @@
 <h2>  GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-Sharma&show_icons=true&theme=radical" alt="Aaradhy-Sharma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-Sharma&show_icons=true&theme=transparent" alt="Aaradhy-Sharma" />
 </p>
 
 
@@ -76,7 +76,7 @@
 
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Aaradhy-Sharma&theme=redical" alt="Aaradhy-Sharma" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aaradhy-Sharma&theme=transparent" alt="Aaradhy-Sharma" />
 </p>
 
 

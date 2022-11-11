@@ -1,12 +1,12 @@
 <h1 align="center"> Hi! I'm Aaradhy Sharma </h1>   
 
 
-- 🔭 Currently learning C,C++,Python.  <br>
-- 😄 Pronouns: he/him. <br>
-- 🌱 Currently working on setting up my [GitHub Profile](githubprofile). <br>
-- 🎯 2023 goals: contribute more to projects and to be profficient in Object Oriented Programming. <br>
-- ⚡ Fun fact: I love playing basketball! <br>
-- 💬 Reach me at [my work email](mail). <br>
+-  Currently learning C,C++,Python.  <br>
+-  Pronouns: he/him. <br>
+-  Currently working on setting up my [GitHub Profile](githubprofile). <br>
+-  2023 goals: contribute more to projects and to be profficient in Object Oriented Programming. <br>
+-  Fun fact: I love playing basketball! <br>
+-  Reach me at [my work email](mail). <br>
 </a>
 
 <h2> My Skillset </h2>

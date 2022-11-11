@@ -76,7 +76,7 @@
 
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Aaradhy-Sharma&theme=transparent" alt="Aaradhy-Sharma" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aaradhy-Sharma&theme=minimal" alt="Aaradhy-Sharma" />
 </p>
 
 

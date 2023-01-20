@@ -64,7 +64,7 @@
 </span>
 
 
-<h2>  GitHub Stats </h2>
+<h2>  GitHub Stat </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-Sharma&count_private=true&show_icons=true&theme=transparent" alt="Aaradhy-Sharma" />
